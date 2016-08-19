@@ -18,7 +18,7 @@ So far it supports:
 Currently there are some bugs with the program, they may be fixed in the future if development is continued.
 
 
-Place Dot.gif and Graphi.gif directly into your harddrive. These are the required images that the program will load.
+Place Dot.gif and Graph.gif directly into your hard drive. These are the required images that the program will load.
 
 
 ----------------------------------------------------------------------------------------------------------------------
