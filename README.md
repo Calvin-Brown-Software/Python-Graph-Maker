@@ -1,18 +1,28 @@
 Python-Graph-Maker
 A program written in Python that will graph out equations.
 
+
 So far it supports:
+
 1.)   Direct Equations
+
 2.)   Linear Equations
+
 3.)   Inverse Variations
+
 4.)   Quadratic Equations
+
 5.)   Custom Formulas
+
 
 Currently there are some bugs with the program, they may be fixed in the future if development is continued.
 
+
 Place Dot.gif and Graphi.gif directly into your harddrive. These are the required images that the program will load.
 
+
 ----------------------------------------------------------------------------------------------------------------------
+
 
 MIT License
 
